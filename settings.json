@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "carpetsmp.mcsh.io",
-    "port": 25565,
+    "ip": "carpetsmp.play.hosting",
+    "port": 34348,
     "version": "",
     "try-creative": false
   },
