@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "online",
+    "username": "SERVER",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "carpetsmp.mcsh.io",
-    "port": 25565,
+    "port": 11621,
     "version": "",
     "try-creative": false
   },
